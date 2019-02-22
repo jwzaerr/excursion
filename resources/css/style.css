@@ -1,1 +1,66 @@
 /* css for excursion webpage */
+
+h1,
+h2,
+h3,
+p,
+a,
+footer {
+  font-family: Verdana;
+}
+
+h1 {
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+}
+
+h2,
+h3 {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+footer {
+  float:right;
+  color: gray;
+}
+
+
+/*  DIVS  */
+
+
+.video {
+margin-top: 20px;
+}
+
+.camp {
+  margin-bottom: 25px;
+}
+
+.icon {
+  margin-bottom: 20px;
+}
+
+
+/*  LINKS  */
+
+
+:link {
+  color: aquamarine;
+}
+
+:visited {
+  color: aquamarine;
+}
