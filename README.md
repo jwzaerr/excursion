@@ -1,4 +1,4 @@
-# excursion
+# Excursion
 
-excursion webpage project
+project webpage
 
